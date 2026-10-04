@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Linux
+*~
+.directory
+
+# OpenCore logs & backup plists
+EFI/OC/*oldConfig*.plist
+EFI/OC/*backup*.plist
+opencore-*.txt
+
+# Build / Zip assets
+*.zip
+*.tar.gz
